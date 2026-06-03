@@ -1,16 +1,25 @@
-## Hi there 👋
+# SpeedyVelcro
 
-<!--
-**SpeedyVelcro/SpeedyVelcro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Game developer and MIDI maker. Visit my personal website at
+[speedyvelcro.com]. This README lists some of my open-source projects
+on GitHub.
 
-Here are some ideas to get you started:
+## Games
+- [Advanced Invasion](https://github.com/SpeedyVelcro/advanced-invasion)
+- [CircleRC](https://github.com/SpeedyVelcro/left-and-right)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Godot Addons
+- [ScaledTexture2D](https://github.com/SpeedyVelcro/godot-scaled-texture-2d)
+
+I also have a collection of addons that - although they add services -
+primarily aim to add reusable UI scenes for my games. These were made
+for my own purposes, but you might find them useful or interesting:
+- [SV Mod Loader](https://github.com/SpeedyVelcro/sv-mod-loader)
+- [SV Options Menu](https://github.com/SpeedyVelcro/sv-options-menu)
+- [SV Achievements](https://github.com/SpeedyVelcro/sv-achievements)
+- [SV Jukebox](https://github.com/SpeedyVelcro/sv-jukebox)
+
+## REAPER files for MIDI production
+- [SV Rompler Skeleton](https://github.com/SpeedyVelcro/sv-rompler-skeleton)
+- [SC-88 Pro ReaBank](https://github.com/SpeedyVelcro/sc-88-pro-reabank)
+
