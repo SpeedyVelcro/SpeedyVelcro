@@ -8,6 +8,9 @@ on GitHub.
 - [Advanced Invasion](https://github.com/SpeedyVelcro/advanced-invasion)
 - [CircleRC](https://github.com/SpeedyVelcro/left-and-right)
 
+## TTRPGs
+- [Unclassed System](https://github.com/SpeedyVelcro/unclassed-system)
+
 ## Godot Addons
 - [ScaledTexture2D](https://github.com/SpeedyVelcro/godot-scaled-texture-2d)
 
